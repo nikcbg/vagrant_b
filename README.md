@@ -24,5 +24,5 @@ Command execution                    | Command outcome
 
 
 ### TO DO:
-- Check if you can `vagrant ssh` web 01 and `vagrant ssh` web02
+- Check if you can `vagrant ssh` web01 and `vagrant ssh` web02
 
