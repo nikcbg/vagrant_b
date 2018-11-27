@@ -19,10 +19,10 @@ File name                            | File description
 
 Command execution                    | Command outcome
 ------------------------------------ | --------------------------------------------------------------
-`vagrant up` | to power up the xenial VM.
-`vagrant ssh` | to log in to the xenial VM.
+`vagrant up` | to power up the nginx64 VM.
+`vagrant ssh` | to log in to the nginx64 VM.
 
 
 ### TO DO:
-- Check if youo can `vagrant ssh` web 01 and `vagrant ssh` web02
+- Check if you can `vagrant ssh` web 01 and `vagrant ssh` web02
 
